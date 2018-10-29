@@ -73,7 +73,7 @@ Atom IDE, Latest Version
 
 Node.js LTS 8.9.1 Installed
 
-</li><li>
+</li></ul>
 
 
 ## Related Products
