@@ -16,66 +16,65 @@ The course compares the previous version of Xcode to the latest version, 10, usi
 
 ## Instructions and Navigation
 ### Assumed Knowledge
-To fully benefit from the coverage included in this course, you will need:<br/>
 This course is for iOS developers, looking for new possibilities for their iOS application development using Xcode 10. If you now want to learn some useful tips and tricks and interesting ways to further improve your Xcode skills and are keen to build powerful iOS applications in a much more fun, unique and easy way, this book is for you. Prior Swift programming knowledge and familiarity with Xcode IDE are assumed.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Minimum Hardware Requirements
+<b>Minimum Hardware Requirements</b><br>
 For successful completion of this course, students will require the computer systems with at least the following:
-
+<ul><li>
 
 OS: Mac running macOS 10.13.4 or later
-
+</li><li>
 
 
 Processor: Intel Core i3
-
+</li><li>
 
 
 Memory: 4GB
 
-
+</li><li>
 
 Storage: 16GB
+</li></ul>
 
-
-Recommended Hardware Requirements
+<b>Recommended Hardware Requirements</b><br>
 For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
 
-
+<ul><li>
 OS: Mac running macOS 10.13.4 or later
-
+</li><li>
 
 
 Processor: Intel Core i7
-
+</li><li>
 
 
 Memory: 16GB
 
-
+</li><li>
 
 Storage: 256GB
+</li></ul>
 
-
-Software Requirements
-
+<b>Software Requirements</b><br>
+<ul><li>
 Operating system: macOS 10.13.4 or later
-
+</li><li>
 
 
 Browser: Safari
-
+</li><li>
 
 
 Atom IDE, Latest Version
-
+</li><li>
 
 
 Node.js LTS 8.9.1 Installed
 
+</li><li>
 
-Provide links/instructions so that the customer can easily find out where to download the required software.
 
 ## Related Products
 * [Tips, Tricks, and Techniques for Python Application Development [Video]](https://www.packtpub.com/application-development/tips-tricks-and-techniques-python-application-development-video?utm_source=github&utm_medium=repository&utm_campaign=9781789139235)
